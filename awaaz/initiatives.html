@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Government Initiatives — Awaaz</title>
+    <meta name="description" content="Browse government laws and initiatives related to women’s issues in Pakistan, filterable by category with official links." />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/responsive.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html" aria-label="Awaaz Home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="brand-text">Awaaz</span>
+        </a>
+
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="siteNav">
+          <span class="nav-toggle-lines" aria-hidden="true"></span>
+          <span class="sr-only">Menu</span>
+        </button>
+
+        <nav class="site-nav" id="siteNav" aria-label="Primary">
+          <a class="nav-link" href="./index.html">Home</a>
+          <a class="nav-link" href="./issues.html">Issues Explorer</a>
+          <a class="nav-link" href="./initiatives.html" aria-current="page">Government Initiatives</a>
+          <a class="nav-link" href="./about.html">About</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="page">
+      <section class="page-hero">
+        <div class="container">
+          <div class="page-hero-inner reveal">
+            <h1 class="page-title">Government Solutions & Initiatives</h1>
+            <p class="page-subtitle">Browse official programs and laws. Use categories to narrow your view.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="filters reveal" role="region" aria-label="Initiative filters">
+            <div class="filter-group">
+              <label class="filter-label" for="initiativeCategorySelect">Category</label>
+              <select id="initiativeCategorySelect" class="select">
+                <option value="__all__">All Categories</option>
+                <option value="Education">Education</option>
+                <option value="Health">Health</option>
+                <option value="Safety/Violence">Safety/Violence</option>
+                <option value="Employment">Employment</option>
+                <option value="Legal Rights">Legal Rights</option>
+                <option value="Political Participation">Political Participation</option>
+              </select>
+            </div>
+
+            <div class="filter-group filter-search">
+              <label class="filter-label" for="initiativeSearchInput">Search</label>
+              <input id="initiativeSearchInput" class="input" type="search" placeholder="Search initiatives..." autocomplete="off" />
+            </div>
+
+            <div class="filter-actions">
+              <button id="initiativeResetBtn" class="btn btn-soft" type="button">Reset</button>
+            </div>
+          </div>
+
+          <div class="meta-row reveal" aria-live="polite">
+            <div id="initiativeResultsMeta" class="meta-text">Loading initiatives…</div>
+            <a class="meta-link" href="./issues.html">Go to issues</a>
+          </div>
+
+          <div id="initiativesGrid" class="grid"></div>
+
+          <div id="initiativeEmptyState" class="empty-state" hidden>
+            <h2 class="empty-title">No initiatives found</h2>
+            <p class="empty-text">Try another category or clear the search.</p>
+            <button id="initiativeEmptyResetBtn" class="btn btn-primary" type="button">Reset filters</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-col">
+          <div class="footer-title">Helplines</div>
+          <div class="footer-text">
+            1099 (Ministry of Human Rights) • 15 (Emergency) • 1122 (Rescue)
+          </div>
+        </div>
+        <div class="footer-col">
+          <div class="footer-title">Note</div>
+          <div class="footer-text">Link initiatives to official pages whenever possible.</div>
+        </div>
+        <div class="footer-col">
+          <div class="footer-title">Credits</div>
+          <div class="footer-text">AI Seekho — Assignment 3 • Team of 3</div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="./js/initiatives-page.js"></script>
+  </body>
+</html>

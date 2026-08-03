@@ -1,0 +1,74 @@
+[
+  {
+    "id": "init-001",
+    "name": "Benazir Income Support Programme (BISP)",
+    "year": "Add year",
+    "category": "Employment",
+    "coverage": "National",
+    "description": "Social protection and cash transfer program supporting low-income households, with impacts on women’s financial inclusion.",
+    "link": "https://bisp.gov.pk/"
+  },
+  {
+    "id": "init-002",
+    "name": "1099 Helpline (Ministry of Human Rights)",
+    "year": "Add year",
+    "category": "Legal Rights",
+    "coverage": "National",
+    "description": "Helpline for legal guidance and human rights complaints, including women’s rights-related support and referrals.",
+    "link": "https://mohr.gov.pk/"
+  },
+  {
+    "id": "init-003",
+    "name": "Punjab Women Protection Authority (PWPA)",
+    "year": "Add year",
+    "category": "Safety/Violence",
+    "coverage": "Punjab",
+    "description": "Provincial mechanism focused on coordinated services and protection for women facing violence, harassment, and related risks.",
+    "link": ""
+  },
+  {
+    "id": "init-004",
+    "name": "Zainab Alert, Response and Recovery Act",
+    "year": "Add year",
+    "category": "Safety/Violence",
+    "coverage": "National",
+    "description": "A law and alert system to improve response to missing and abducted children; often referenced in broader safety discussions.",
+    "link": ""
+  },
+  {
+    "id": "init-005",
+    "name": "Provincial Domestic Violence Legislation & Protection Committees",
+    "year": "Add year",
+    "category": "Safety/Violence",
+    "coverage": "Province-specific",
+    "description": "A category placeholder for province-level domestic violence laws and support mechanisms. Replace with your province-specific entries and official links.",
+    "link": ""
+  },
+  {
+    "id": "init-006",
+    "name": "Girls’ Education Stipend / Conditional Cash Support (Province Programs)",
+    "year": "Add year",
+    "category": "Education",
+    "coverage": "Province-specific",
+    "description": "Programs offering stipends or incentives to encourage girls’ enrollment and retention in schools. Replace with exact province program names and official references.",
+    "link": ""
+  },
+  {
+    "id": "init-007",
+    "name": "Lady Health Worker (LHW) Programme",
+    "year": "Add year",
+    "category": "Health",
+    "coverage": "National",
+    "description": "Community health worker network supporting maternal and child health services and health awareness at household level.",
+    "link": ""
+  },
+  {
+    "id": "init-008",
+    "name": "Election Commission & Women’s Voter Participation Measures",
+    "year": "Add year",
+    "category": "Political Participation",
+    "coverage": "National",
+    "description": "Placeholder entry for policies and measures to improve women’s voter registration and participation. Replace with exact references and links.",
+    "link": "https://www.ecp.gov.pk/"
+  }
+]

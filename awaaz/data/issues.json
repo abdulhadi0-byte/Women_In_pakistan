@@ -1,0 +1,178 @@
+[
+  {
+    "id": "isu-001",
+    "title": "Girls’ School Dropout Risk",
+    "category": "Education",
+    "province": "Balochistan",
+    "city": "Quetta",
+    "description": "School retention can be affected by distance, transport constraints, household responsibilities, and social factors. Capture a verified local statistic and cite it.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (PBS/UNICEF/report + year)",
+    "relatedInitiativeId": "init-006"
+  },
+  {
+    "id": "isu-002",
+    "title": "Limited Access to Maternal Health Services",
+    "category": "Health",
+    "province": "Balochistan",
+    "city": "Turbat",
+    "description": "Maternal and newborn health outcomes can be impacted by shortages of skilled staff, facilities, and transport. Use public health reports for verified figures.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (WHO/UNICEF/Pakistan health report + year)",
+    "relatedInitiativeId": "init-007"
+  },
+  {
+    "id": "isu-003",
+    "title": "Workforce Participation Barriers",
+    "category": "Employment",
+    "province": "Punjab",
+    "city": "Lahore",
+    "description": "Women can face barriers such as safe transport, workplace harassment risks, unpaid care work, and limited flexible work options.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (PBS Labour Force Survey + year)",
+    "relatedInitiativeId": "init-001"
+  },
+  {
+    "id": "isu-004",
+    "title": "Harassment Reporting Awareness Gaps",
+    "category": "Legal Rights",
+    "province": "Punjab",
+    "city": "Rawalpindi",
+    "description": "Many people are unaware of formal complaint mechanisms and protections related to harassment. Summarize the policy landscape and attach a credible citation.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (government/commission report + year)",
+    "relatedInitiativeId": "init-002"
+  },
+  {
+    "id": "isu-005",
+    "title": "Domestic Violence Underreporting",
+    "category": "Safety/Violence",
+    "province": "Punjab",
+    "city": "Multan",
+    "description": "Underreporting can be influenced by social stigma and limited access to support services. Use a credible report and keep language non-graphic.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (HRCP/PDHS/official + year)",
+    "relatedInitiativeId": "init-003"
+  },
+  {
+    "id": "isu-006",
+    "title": "Barriers to Women’s Voter Turnout",
+    "category": "Political Participation",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Peshawar",
+    "description": "Political participation can be limited by mobility constraints, social pressures, and gaps in voter registration. Attach official and dated references.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (ECP/observer report + year)",
+    "relatedInitiativeId": "init-008"
+  },
+  {
+    "id": "isu-007",
+    "title": "Access to Safe Public Transport",
+    "category": "Safety/Violence",
+    "province": "Sindh",
+    "city": "Karachi",
+    "description": "Safety concerns in public spaces and transport can limit mobility and access to education and work. Use a reputable survey/report with date.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (survey/report + year)",
+    "relatedInitiativeId": "init-005"
+  },
+  {
+    "id": "isu-008",
+    "title": "Education Continuity in Rural Areas",
+    "category": "Education",
+    "province": "Sindh",
+    "city": "Hyderabad",
+    "description": "School continuity can be impacted by infrastructure, poverty, and cultural factors. Replace with localized, verifiable data and citations.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (PBS/UNICEF/report + year)",
+    "relatedInitiativeId": "init-006"
+  },
+  {
+    "id": "isu-009",
+    "title": "Maternal Health Follow-up Gaps",
+    "category": "Health",
+    "province": "Sindh",
+    "city": "Sukkur",
+    "description": "Continuity of antenatal and postnatal care can be affected by distance, costs, and awareness. Use credible health data sources.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (PDHS/WHO/UNICEF + year)",
+    "relatedInitiativeId": "init-007"
+  },
+  {
+    "id": "isu-010",
+    "title": "Legal Aid Accessibility",
+    "category": "Legal Rights",
+    "province": "Islamabad Capital Territory",
+    "city": "Islamabad",
+    "description": "People seeking legal aid may face costs, information gaps, and procedural complexity. Reference official services and helplines where available.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (MOHR/official + year)",
+    "relatedInitiativeId": "init-002"
+  },
+  {
+    "id": "isu-011",
+    "title": "Employment and Skills Opportunities",
+    "category": "Employment",
+    "province": "Khyber Pakhtunkhwa",
+    "city": "Mardan",
+    "description": "Skills and job access can be influenced by training availability, transport, and workplace conditions. Use provincial/national reports for verified figures.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (PBS/skills program report + year)",
+    "relatedInitiativeId": "init-001"
+  },
+  {
+    "id": "isu-012",
+    "title": "Awareness of Reporting Mechanisms",
+    "category": "Safety/Violence",
+    "province": "Gilgit-Baltistan",
+    "city": "Gilgit",
+    "description": "Awareness of reporting and referral pathways can be limited. Capture credible local references and keep descriptions non-graphic.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (gov/NGO report + year)",
+    "relatedInitiativeId": "init-002"
+  },
+  {
+    "id": "isu-013",
+    "title": "Girls’ Secondary Education Access",
+    "category": "Education",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Muzaffarabad",
+    "description": "Secondary-level access can depend on school availability, transport, and household costs. Replace with verified local statistics and sources.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (education report + year)",
+    "relatedInitiativeId": "init-006"
+  },
+  {
+    "id": "isu-014",
+    "title": "Maternal Health Service Awareness",
+    "category": "Health",
+    "province": "Azad Jammu & Kashmir",
+    "city": "Mirpur",
+    "description": "Health awareness and routine checkups can vary by area. Use credible sources and avoid sensational details.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (PDHS/health department + year)",
+    "relatedInitiativeId": "init-007"
+  },
+  {
+    "id": "isu-015",
+    "title": "Political Participation and Representation",
+    "category": "Political Participation",
+    "province": "Punjab",
+    "city": "Faisalabad",
+    "description": "Representation and participation can be influenced by party structures, community norms, and resource access. Attach verifiable references.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (ECP/report + year)",
+    "relatedInitiativeId": "init-008"
+  },
+  {
+    "id": "isu-016",
+    "title": "Access to Complaint Mechanisms",
+    "category": "Legal Rights",
+    "province": "Sindh",
+    "city": "Karachi",
+    "description": "Navigating complaint mechanisms can be difficult without legal literacy and safe reporting channels. Add official references for support services.",
+    "stat": "Add verified statistic",
+    "statSource": "Add source (commission/official + year)",
+    "relatedInitiativeId": "init-002"
+  }
+]
